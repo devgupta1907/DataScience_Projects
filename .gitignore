@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 env
 data/bulldozers-project-data/bluebook-for-bulldozers
+data/BlackFridaytest.csv
+data/BlackFridaytrain.csv
